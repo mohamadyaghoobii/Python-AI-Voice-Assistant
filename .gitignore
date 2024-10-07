@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+env/
+venv/
+.ai/    # Exclude 'ai' folder if it contains libraries
+
+# Python egg
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+ENV/
+env.bak/
+venv.bak/
+
+# MacOS system files
+.DS_Store
+
+# IDE-specific files (optional, depending on IDE)
+.vscode/
+.idea/
+
+# PyCharm specific files
+*.iml
+*.iws
+*.ipr
+
+# Exclude AI library folder (adjust if needed)
+ai/
