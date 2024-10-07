@@ -20,7 +20,7 @@ git clone https://github.com/mohamadyaghoobii/python-ai-voice-assistant.git
 cd python-ai-voice-assistant
 
 2:Install the required dependencies:
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
  
 3:Set up your environment variables. Rename the .env.example file to .env and provide the required values:
